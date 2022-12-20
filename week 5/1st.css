@@ -1,0 +1,48 @@
+body{
+    background-color: darkgreen;
+    color: white;
+}
+
+h1{
+    font-size: 82px;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 40%;
+    margin-left: 100px;
+}
+
+h2{
+    margin-left: 100px;
+    margin-top: -30px;
+    font-size: 30;
+}
+
+.Venue{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+input{
+    padding: 0%;
+    margin-left: 100px;
+    margin-top: 20px;
+    width: fit-content;
+    font-size: 20px;
+    background-color: orange;
+    color: black;
+    border: none;
+    border-radius: 50px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.image{
+    text-align: right;
+    margin-top: -640px;
+    margin-right: 100px;
+    max-width: 100%;
+}
+
+img{
+    height: 703px;
+    width: 45%;
+}
