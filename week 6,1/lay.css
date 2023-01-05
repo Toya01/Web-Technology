@@ -1,0 +1,34 @@
+header{
+    background-color: green;
+    font-size: 82px;
+    text-align: center;
+    height: 100px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+section{
+    display: flex;
+    font-size: 82px;
+    padding: 0;
+    text-align: center;
+
+}
+#A{
+    flex: 3;
+    background-color: red;
+    padding: 15%;
+}
+#B{
+    flex: 1;
+    background-color: yellow;
+    padding: 0%;
+    text-align: center;
+}
+footer{
+    background-color: green;
+    font-size: 82px;
+    text-align: center;
+    height: 100px;
+}

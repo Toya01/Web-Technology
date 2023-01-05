@@ -13,7 +13,7 @@ body{
 h1{
     font-size: 64px;
     font-family: 'Times New Roman', Times, serif;
-    /* max-width: 40%; */
+   
     margin-left: 100px;
     padding: 0;
     color: white;
@@ -45,15 +45,10 @@ input{
     font-weight: bold;
 }
 
-/* .image{
-    text-align: right;
-    margin-top: -640px;
-    margin-right: 100px;
-    max-width: 100%;
-} */
+
 
 img{
-    /* height: 703px; */
+
   
     height: 100%;
     
@@ -64,7 +59,6 @@ img{
 }
 
 .text{
-    /* width: 100%; */
     display: flex;
     justify-content: space-between;
     margin-right: 100px;
@@ -82,11 +76,5 @@ img{
 .text h1{
     margin-left: 100px;
     font-size: 64px;
-    /* margin-top: 48px; */
-    padding: 0;
-}
-
-.text img{
-   height: min-content;
-    
+    padding: 0; 
 }
